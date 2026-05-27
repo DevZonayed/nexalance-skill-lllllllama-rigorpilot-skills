@@ -1,6 +1,5 @@
 .DS_Store
 .idea/
-.vscode/
 .claude/worktrees/
 __pycache__/
 *.pyc
@@ -28,3 +27,7 @@ checkpoints/
 datasets/
 cache/
 agent.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
